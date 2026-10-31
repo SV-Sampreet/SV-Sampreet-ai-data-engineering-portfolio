@@ -1,0 +1,16 @@
+customer_id,customer_name,email,signup_date,region,customer_segment
+CUST001,John Smith,john.smith@email.com,2023-01-15,North,Premium
+CUST002,Jane Johnson,jane.johnson@email.com,2023-02-20,South,Standard
+CUST003,Bob Williams,bob.williams@email.com,2023-03-10,East,Premium
+CUST004,Alice Brown,alice.brown@email.com,2023-04-05,West,Standard
+CUST005,Charlie Davis,charlie.davis@email.com,2023-05-12,North,Premium
+CUST006,Diana Miller,diana.miller@email.com,2023-06-18,South,Standard
+CUST007,Evan Wilson,evan.wilson@email.com,2023-07-22,East,Premium
+CUST008,Fiona Moore,fiona.moore@email.com,2023-08-30,West,Standard
+CUST009,George Taylor,george.taylor@email.com,2023-09-14,North,Premium
+CUST010,Hannah Anderson,hannah.anderson@email.com,2023-10-25,South,Standard
+CUST011,Ian Thomas,ian.thomas@email.com,2023-11-08,East,Premium
+CUST012,Julia Jackson,julia.jackson@email.com,2023-12-01,West,Standard
+CUST013,Kevin White,kevin.white@email.com,2024-01-10,North,Premium
+CUST014,Laura Harris,laura.harris@email.com,2024-02-15,South,Standard
+CUST015,Martin Clark,martin.clark@email.com,2024-03-20,East,Premium

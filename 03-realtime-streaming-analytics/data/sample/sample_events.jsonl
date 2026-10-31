@@ -1,0 +1,10 @@
+{"event_id": "evt001", "timestamp": "2024-01-15T10:00:00", "user_id": "user1", "amount": 150.50, "category": "electronics", "payment_method": "credit_card", "status": "completed"}
+{"event_id": "evt002", "timestamp": "2024-01-15T10:00:05", "user_id": "user2", "amount": 75.25, "category": "clothing", "payment_method": "debit_card", "status": "completed"}
+{"event_id": "evt003", "timestamp": "2024-01-15T10:00:10", "user_id": "user3", "amount": 200.00, "category": "food", "payment_method": "paypal", "status": "completed"}
+{"event_id": "evt004", "timestamp": "2024-01-15T10:00:15", "user_id": "user1", "amount": 50.00, "category": "entertainment", "payment_method": "credit_card", "status": "completed"}
+{"event_id": "evt005", "timestamp": "2024-01-15T10:00:20", "user_id": "user4", "amount": 300.00, "category": "travel", "payment_method": "bank_transfer", "status": "pending"}
+{"event_id": "evt006", "timestamp": "2024-01-15T10:00:25", "user_id": "user2", "amount": 120.75, "category": "health", "payment_method": "credit_card", "status": "completed"}
+{"event_id": "evt007", "timestamp": "2024-01-15T10:00:30", "user_id": "user5", "amount": 85.00, "category": "electronics", "payment_method": "debit_card", "status": "completed"}
+{"event_id": "evt008", "timestamp": "2024-01-15T10:00:35", "user_id": "user3", "amount": 45.50, "category": "food", "payment_method": "paypal", "status": "completed"}
+{"event_id": "evt009", "timestamp": "2024-01-15T10:00:40", "user_id": "user1", "amount": 175.00, "category": "clothing", "payment_method": "credit_card", "status": "completed"}
+{"event_id": "evt010", "timestamp": "2024-01-15T10:00:45", "user_id": "user6", "amount": 250.00, "category": "travel", "payment_method": "bank_transfer", "status": "completed"}

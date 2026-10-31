@@ -1,0 +1,69 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+*/venv/
+*/env/
+*/.venv
+
+# Environment variables
+.env
+.env.local
+*/.env
+*/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*/logs/
+
+# Generated data
+data/output/
+data/processed/
+data/quarantine/
+data/input/
+data/checkpoint/
+data/index/
+*/data/output/
+*/data/processed/
+*/data/quarantine/
+*/data/input/
+*/data/checkpoint/
+*/data/index/
+
+# Spark
+spark-warehouse/
+metastore_db/
+*.parquet.crc
+._SUCCESS.*
+*/spark-warehouse/
+*/metastore_db/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*/.pytest_cache/
+*/htmlcov/
+
+# ChromaDB
+.chroma/
+*/.chroma/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/

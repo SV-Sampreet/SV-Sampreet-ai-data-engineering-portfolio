@@ -1,0 +1,9 @@
+pyspark==3.5.3
+pytest==8.3.3
+pytest-cov==6.0.0
+streamlit==1.39.0
+python-dotenv==1.0.1
+
+# Optional dependencies for Kafka and PostgreSQL
+# kafka-python==2.0.2
+# psycopg2-binary==2.9.9

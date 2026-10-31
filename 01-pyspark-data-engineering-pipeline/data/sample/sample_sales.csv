@@ -1,0 +1,31 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,total_price,order_date,region,payment_method
+ORD001,CUST001,PROD001,Laptop Pro,Electronics,2,899.99,1799.98,2024-01-15,North,Credit Card
+ORD002,CUST002,PROD002,Wireless Mouse,Electronics,5,29.99,149.95,2024-01-16,South,Debit Card
+ORD003,CUST001,PROD003,USB-C Hub,Electronics,3,49.99,149.97,2024-01-17,East,Credit Card
+ORD004,CUST003,PROD004,Mechanical Keyboard,Electronics,1,129.99,129.99,2024-01-18,West,PayPal
+ORD005,CUST004,PROD005,27-inch Monitor,Electronics,1,349.99,349.99,2024-01-19,North,Credit Card
+ORD006,CUST002,PROD006,Webcam HD,Electronics,2,79.99,159.98,2024-01-20,South,Debit Card
+ORD007,CUST005,PROD007,Ergonomic Chair,Furniture,1,299.99,299.99,2024-01-21,East,Credit Card
+ORD008,CUST003,PROD008,Standing Desk,Furniture,1,499.99,499.99,2024-01-22,West,PayPal
+ORD009,CUST006,PROD009,Noise-Canceling Headphones,Electronics,1,199.99,199.99,2024-01-23,North,Credit Card
+ORD010,CUST004,PROD010,Wireless Charger,Electronics,3,39.99,119.97,2024-01-24,South,Debit Card
+ORD011,CUST007,PROD011,Smart Watch,Electronics,1,249.99,249.99,2024-02-01,East,Credit Card
+ORD012,CUST008,PROD012,Tablet Stand,Accessories,2,34.99,69.98,2024-02-02,West,PayPal
+ORD013,CUST001,PROD013,External SSD,Electronics,1,129.99,129.99,2024-02-03,North,Credit Card
+ORD014,CUST009,PROD014,Laptop Sleeve,Accessories,5,19.99,99.95,2024-02-04,South,Debit Card
+ORD015,CUST005,PROD015,Bluetooth Speaker,Electronics,2,89.99,179.98,2024-02-05,East,Credit Card
+ORD016,CUST010,PROD016,Gaming Mouse,Electronics,1,59.99,59.99,2024-02-06,West,PayPal
+ORD017,CUST002,PROD017,Monitor Arm,Accessories,1,79.99,79.99,2024-02-07,North,Credit Card
+ORD018,CUST011,PROD018,Desk Lamp,Furniture,2,45.99,91.98,2024-02-08,South,Debit Card
+ORD019,CUST003,PROD019,Wireless Keyboard,Electronics,1,99.99,99.99,2024-02-09,East,Credit Card
+ORD020,CUST012,PROD020,USB Hub,Accessories,4,24.99,99.96,2024-02-10,West,PayPal
+ORD021,CUST013,PROD021,HDMI Cable,Accessories,10,9.99,99.90,2024-03-01,North,Credit Card
+ORD022,CUST004,PROD022,DisplayPort Cable,Accessories,5,14.99,74.95,2024-03-02,South,Debit Card
+ORD023,CUST014,PROD023,Ethernet Cable,Accessories,8,12.99,103.92,2024-03-03,East,Credit Card
+ORD024,CUST006,PROD024,Power Strip,Accessories,3,29.99,89.97,2024-03-04,West,PayPal
+ORD025,CUST015,PROD025,Surge Protector,Accessories,2,34.99,69.98,2024-03-05,North,Credit Card
+ORD026,CUST007,PROD026,Laptop Cooler,Accessories,1,39.99,39.99,2024-03-06,South,Debit Card
+ORD027,CUST008,PROD027,Screen Cleaner,Accessories,6,9.99,59.94,2024-03-07,East,Credit Card
+ORD028,CUST009,PROD028,Keyboard Cover,Accessories,4,14.99,59.96,2024-03-08,West,PayPal
+ORD029,CUST010,PROD029,Mouse Pad,Accessories,10,7.99,79.90,2024-03-09,North,Credit Card
+ORD030,CUST011,PROD030,Cable Organizer,Accessories,5,12.99,64.95,2024-03-10,South,Debit Card
